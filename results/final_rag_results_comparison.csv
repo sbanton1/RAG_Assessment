@@ -1,0 +1,6 @@
+Fiscal Year,Catastrophe Losses (USD),Unrealized Gain/Loss from Hedges (USD),Event 1,Event 2,Event 3,Extracted Catastrophe Losses,Extracted Hedge Positions,Extracted Event 1
+2000,$44 million,$1.27 billion,Major Acquisition,Regulatory Changes,Market Disruption,$44 million,$1.27 billion,Not found
+2001,$867 million,$(74) million,World Trade Center,Reserve Adjustments,Major Acquisition,$867 million,$(74) million,World Trade Center losses (Market Disruption)
+2002,$61 million,$(192) million,Regulatory Changes,Legal Settlement,Reserve Adjustments,$61 million,$(192) million,Net loss reserve charge of $2.1 billion (Reserve Adjustments)
+2003,$83 million,$(1.09) billion,Market Disruption,Regulatory Changes,Major Acquisition,$83 million,$(1.09) billion,Restatement of financial statements (Regulatory Changes)
+2004,$1.05 billion,$215 million,Natural Disaster,Reserve Adjustments,Legal Settlement,$1.16 billion,$215 million,Catastrophe losses of $1.16 billion (Natural Disaster)
